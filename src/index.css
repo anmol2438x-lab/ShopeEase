@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;  /* Hides scrollbar in IE/Edge */
+  scrollbar-width: none;  /* Hides scrollbar in Firefox */
+}
+
+
+@keyframes gradientAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradientAnimation 3s infinite linear;
+}
+
+
+/* Makes the whole track behave like flex container */
+.slick-track {
+  display: flex !important;
+  justify-content: center;
+  align-items: stretch;
+}
+
+/* Ensures slide content is centered */
+.slick-slide > div {
+  display: flex;
+  justify-content: center;
+}
