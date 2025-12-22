@@ -8,8 +8,8 @@ const FooterCopyright = () => {
           {/* Copyright text */}
           <div className="text-center md:text-left">
             <span className="text-sm">
-              Copyright 2025 © <a href="/" className="text-[#d51243] hover:text-[#d51243] font-medium">ShopEase</a>. All rights reserved. 
-              Developed by <a href="https://www.linkedin.com/in/sachinpro/" target="black" className="text-[#d51243] hover:text-[#d51243] font-medium">Sachin...</a>.
+              Copyright 2025 © <a href="/" className="text-[#d51243] hover:text-[#d51243] font-medium">ShopEase</a>. All rights reserved.
+              Developed by <a href="https://www.linkedin.com/in/anmolkrsingh/" target="black" className="text-[#d51243] hover:text-[#d51243] font-medium">Anmol...</a>.
             </span>
           </div>
 
@@ -17,7 +17,7 @@ const FooterCopyright = () => {
           <div className="flex-shrink-0">
             <div className="h-8 w-auto">
               <img src="/PAYMENT.png" alt="" />
-                
+
             </div>
           </div>
         </div>
