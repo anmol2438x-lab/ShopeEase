@@ -1,7 +1,8 @@
 # ShopEase E-Commerce Platform 🛍️
 
 ![ShopEase Preview](https://github.com/anmol2438x-lab/ShopeEase/blob/main/public/App%20Prev..png)
-*Modern eCommerce interface with product browsing and cart management*
+<p>
+*Modern eCommerce interface with product browsing and cart management*</p>
 
 ## 🚀 Live Demo
 [![Live Demo](https://img.shields.io/badge/🛒_Try_ShopEase-Live_Demo-3d5a80?style=for-the-badge)](https://shopease-ecomm.netlify.app/)
