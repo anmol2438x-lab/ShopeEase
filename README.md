@@ -1,6 +1,6 @@
 # ShopEase E-Commerce Platform 🛍️
 
-![ShopEase Dashboard](https://media.licdn.com/dms/image/v2/D562DAQF1ElCInm4_9w/profile-treasury-image-shrink_800_800/B56ZfT8q71GQAY-/0/1751607589139?e=1752843600&v=beta&t=uHqeswxrzwwyXX-zliAhWY5FWv2A6cRW9cN8Jo6lOBw)
+![ShopEase Preview](https://github.com/anmol2438x-lab/ShopeEase/blob/main/public/App%20Prev..png)
 *Modern eCommerce interface with product browsing and cart management*
 
 ## 🚀 Live Demo
@@ -48,4 +48,4 @@
 | Routing           | React Router v6                                                                  |
 | UI Components     | Material UI + Headless UI                                                        |
 | Notifications     | React Toastify                                                                   |
-| Carousels         | React Slick                                                        
+| Carousels         | React Slick
